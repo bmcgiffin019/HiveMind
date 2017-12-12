@@ -44,7 +44,7 @@ public class Fs extends Player
 		
 //		beginResearch(RaiderPierce.class);
 		
-		if(countMyMiners() < 4)
+		if(countMyMiners() < 5)
 		{
 			addMinerToQueue();
 		}
